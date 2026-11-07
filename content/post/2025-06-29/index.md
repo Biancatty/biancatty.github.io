@@ -1,6 +1,6 @@
 ---
 title: "猫：我想自杀因为我妈总是overthinking"
-date: 2026-09-03
+date: 2025-06-29
 categories: ["二八一只猫"]
 ---
 
